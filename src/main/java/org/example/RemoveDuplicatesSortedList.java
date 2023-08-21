@@ -1,3 +1,5 @@
+package org.example;
+
 public class RemoveDuplicatesSortedList {
     public static class ListNode {
         int val;
