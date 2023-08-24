@@ -1,7 +1,4 @@
-package org.example;
-
-import org.w3c.dom.Node;
-import org.w3c.dom.NodeList;
+package org.example.linkedList;
 
 import java.util.HashSet;
 import java.util.Set;

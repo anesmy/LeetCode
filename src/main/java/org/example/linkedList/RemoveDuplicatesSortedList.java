@@ -1,4 +1,4 @@
-package org.example;
+package org.example.linkedList;
 
 public class RemoveDuplicatesSortedList {
     public static class ListNode {

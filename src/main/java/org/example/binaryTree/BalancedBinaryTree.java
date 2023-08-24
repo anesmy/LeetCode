@@ -1,4 +1,4 @@
-package org.example;
+package org.example.binaryTree;
 
 public class BalancedBinaryTree {
     public static class TreeNode {
