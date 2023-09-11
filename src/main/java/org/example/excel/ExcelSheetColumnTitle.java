@@ -1,4 +1,4 @@
-package org.example;
+package org.example.excel;
 
 public class ExcelSheetColumnTitle {
     private static final char START = 64;

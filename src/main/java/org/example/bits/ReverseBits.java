@@ -1,4 +1,4 @@
-package org.example;
+package org.example.bits;
 
 import java.math.BigInteger;
 
