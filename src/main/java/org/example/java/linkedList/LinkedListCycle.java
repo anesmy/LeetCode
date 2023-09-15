@@ -1,4 +1,4 @@
-package org.example.linkedList;
+package org.example.java.linkedList;
 
 import java.util.HashSet;
 import java.util.Set;

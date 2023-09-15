@@ -1,4 +1,4 @@
-package org.example.bits;
+package org.example.java.bits;
 
 public class NumberOf1Bits {
     public int hammingWeight(int n) {

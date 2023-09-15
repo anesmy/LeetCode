@@ -1,10 +1,9 @@
-package org.example.binaryTree;
+package org.example.java.binaryTree;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class BinaryTreePreorderTraversal {
-
+public class BinaryTreePostorderTraversal {
     // Definition for a binary tree node.
     public static class TreeNode {
         int val;
@@ -25,14 +24,13 @@ public class BinaryTreePreorderTraversal {
         }
     }
 
-
-    public List<Integer> preorderTraversal(TreeNode root) {
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> btList = new ArrayList<>();
 
         if (root != null){
+            btList.addAll(postorderTraversal(root.left));
+            btList.addAll(postorderTraversal(root.right));
             btList.add(root.val);
-            btList.addAll(preorderTraversal(root.left));
-            btList.addAll(preorderTraversal(root.right));
         }
         return btList;
     }

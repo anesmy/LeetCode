@@ -1,4 +1,4 @@
-package org.example.binaryTree;
+package org.example.java.binaryTree;
 
 public class PathSum {
     public static class TreeNode {
