@@ -1,4 +1,4 @@
-package org.example.java;
+package org.example.java.words;
 
 public class ToLowerCase {
     public String toLowerCase(String s) {
