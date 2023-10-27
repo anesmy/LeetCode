@@ -1,4 +1,4 @@
-package org.example.java.words;
+package org.example.java.coding;
 
 import java.util.Arrays;
 import java.util.List;

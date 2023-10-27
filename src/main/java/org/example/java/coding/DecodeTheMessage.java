@@ -1,4 +1,4 @@
-package org.example.java.words;
+package org.example.java.coding;
 
 import java.util.List;
 import java.util.stream.Collectors;

@@ -1,4 +1,4 @@
-package org.example.java.numbers;
+package org.example.java.numbers.games;
 
 import java.util.Random;
 

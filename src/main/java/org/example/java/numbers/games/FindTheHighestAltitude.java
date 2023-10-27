@@ -1,4 +1,4 @@
-package org.example.java.numbers;
+package org.example.java.numbers.games;
 
 public class FindTheHighestAltitude {
     public int largestAltitude(int[] gain) {
