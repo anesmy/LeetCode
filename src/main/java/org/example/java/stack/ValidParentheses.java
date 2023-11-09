@@ -1,4 +1,4 @@
-package org.example.java.characters;
+package org.example.java.stack;
 
 
 import java.util.Stack;
