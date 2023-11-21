@@ -1,4 +1,4 @@
-package org.example.stack;
+package org.example.java.stack;
 
 import java.util.Deque;
 import java.util.LinkedList;
