@@ -1,4 +1,4 @@
-package org.example.java.numbers;
+package org.example.java.numbers.twoSum;
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) {
